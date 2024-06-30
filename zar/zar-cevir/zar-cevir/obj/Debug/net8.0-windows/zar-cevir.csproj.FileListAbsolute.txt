@@ -1,0 +1,16 @@
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\bin\Debug\net8.0-windows\zar-cevir.exe
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\bin\Debug\net8.0-windows\zar-cevir.deps.json
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\bin\Debug\net8.0-windows\zar-cevir.runtimeconfig.json
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\bin\Debug\net8.0-windows\zar-cevir.dll
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\bin\Debug\net8.0-windows\zar-cevir.pdb
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\obj\Debug\net8.0-windows\zar_cevir.Form1.resources
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\obj\Debug\net8.0-windows\zar-cevir.csproj.GenerateResource.cache
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\obj\Debug\net8.0-windows\zar-cevir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\obj\Debug\net8.0-windows\zar-cevir.AssemblyInfoInputs.cache
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\obj\Debug\net8.0-windows\zar-cevir.AssemblyInfo.cs
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\obj\Debug\net8.0-windows\zar-cevir.csproj.CoreCompileInputs.cache
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\obj\Debug\net8.0-windows\zar-cevir.dll
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\obj\Debug\net8.0-windows\refint\zar-cevir.dll
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\obj\Debug\net8.0-windows\zar-cevir.pdb
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\obj\Debug\net8.0-windows\zar-cevir.genruntimeconfig.cache
+C:\Users\YİĞİT\Desktop\zar\zar-cevir\zar-cevir\obj\Debug\net8.0-windows\ref\zar-cevir.dll
